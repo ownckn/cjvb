@@ -47,7 +47,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 OrionLib:MakeNotification({
   Name = "正在启动河流测试服",
   Content = "脚本启动成功正在加载中-请耐心等待(正在启动)",
-  Image = "rbxassetid://15361603644",
+  Image = "rbxassetid://15571104634",
   Time = 6
 })
 wait(3)
