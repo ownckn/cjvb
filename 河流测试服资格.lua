@@ -411,4 +411,4 @@ AddKey({
 	}
 })
 
-loadstring(game:HttpGet("https://pastebin.com/raw/9YNCv6Vm"))()
+loadstring(game:HttpGet("https://github.com/ownckn/cjvb/raw/main/%E6%8A%B1%E6%AD%89"))()
