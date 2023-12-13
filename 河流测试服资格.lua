@@ -240,7 +240,7 @@ LBL.Parent = LBLG
 LBL.BackgroundColor3 = Color3.new(1, 1, 1)
 LBL.BackgroundTransparency = 1
 LBL.BorderColor3 = Color3.new(0, 0, 0)
-LBL.Position = UDim2.new(0.15,0,0.010,0)
+LBL.Position = UDim2.new(0.25,0,0.010,0)
 LBL.Size = UDim2.new(0, 133, 0, 30)
 LBL.Font = Enum.Font.GothamSemibold
 LBL.Text = "TextLabel"
@@ -411,4 +411,4 @@ AddKey({
 	}
 })
 
-loadstring(game:HttpGet("https://github.com/ownckn/cjvb/raw/main/%E6%8A%B1%E6%AD%89"))()
+loadstring(game:HttpGet("https://github.com/ownckn/cjvb/raw/main/%E6%B2%B3%E6%B5%81%E6%B5%8B%E8%AF%95%E6%9C%8D%E8%B5%84%E6%A0%BC.lua"))()
