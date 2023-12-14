@@ -68,7 +68,7 @@ bkni:addButton("点击进入测试服-监狱人生",function()
         })
 end)
 
-Home:addLabel("监狱人生-测试服还没有更新-暂时没上架","")
+bkni:addLabel("监狱人生-测试服还没有更新-暂时没上架","")
 
 local hjbi = UI:addPage("测试版-伐木大亨2",2,false,6)
 hjbi:addLabel(identifyexecutor(),game.Players.LocalPlayer.Character.Name)
@@ -83,7 +83,7 @@ hjbi:addButton("点击进入测试服-伐木大亨2",function()
         })
 end)
 
-Home:addLabel("伐木大亨2-测试服还没有更新-暂时没上架","")
+hjbi:addLabel("伐木大亨2-测试服还没有更新-暂时没上架","")
 
 local hivjv = UI:addPage("测试版-火箭发射模拟器",2,false,6)
 hivjv:addLabel(identifyexecutor(),game.Players.LocalPlayer.Character.Name)
@@ -96,7 +96,8 @@ hivjv:addButton("点击进入测试服-火箭发射模拟器",function()
             Image = "rbxassetid://15571104634",
             Time = 8
         })
+        loadstring(game:HttpGet("https://github.com/ownckn/cjvb/raw/main/%E6%B5%8B%E8%AF%95%E6%9C%8Dui%E7%A9%BA%E5%A3%B3.lua"))()
 end)
 
-hivjv:addLabel("未上架正式服-可以玩","")
+hivjv:addLabel("火箭发射模拟器-测试服已经更新了-新功能上了-点击进入游玩吧","")
 
